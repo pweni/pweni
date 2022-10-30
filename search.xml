@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>工具收藏</title>
+      <link href="/2022/10/30/%E5%B7%A5%E5%85%B7%E6%94%B6%E8%97%8F/"/>
+      <url>/2022/10/30/%E5%B7%A5%E5%85%B7%E6%94%B6%E8%97%8F/</url>
+      
+        <content type="html"><![CDATA[<h2 id="linux相关"><a href="#linux相关" class="headerlink" title="linux相关"></a>linux相关</h2><ul><li><h4 id="explainshell-com-match-command-line-arguments-to-their-help-text——一个解释命令行各个参数干嘛的网站"><a href="#explainshell-com-match-command-line-arguments-to-their-help-text——一个解释命令行各个参数干嘛的网站" class="headerlink" title="explainshell.com - match command-line arguments to their help text——一个解释命令行各个参数干嘛的网站"></a><a href="https://explainshell.com/">explainshell.com - match command-line arguments to their help text</a>——一个解释命令行各个参数干嘛的网站<img src="/../images/%E5%B7%A5%E5%85%B7%E6%94%B6%E8%97%8F/image-20221030120038406.png" alt="image-20221030120038406"></h4></li></ul><h2 id="vscode相关"><a href="#vscode相关" class="headerlink" title="vscode相关"></a>vscode相关</h2><ul><li><h4 id="snippet-generator-snippet-generator-app-——vscode里面custom的snippet"><a href="#snippet-generator-snippet-generator-app-——vscode里面custom的snippet" class="headerlink" title="snippet generator (snippet-generator.app)——vscode里面custom的snippet"></a><a href="https://snippet-generator.app/?description=&tabtrigger=&snippet=&mode=vscode">snippet generator (snippet-generator.app)</a>——vscode里面custom的snippet<img src="/../images/%E5%B7%A5%E5%85%B7%E6%94%B6%E8%97%8F/image-20221030142107454.png" alt="image-20221030142107454"><img src="/../images/%E5%B7%A5%E5%85%B7%E6%94%B6%E8%97%8F/image-20221030142138014.png" alt="image-20221030142138014"></h4></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资源收藏 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 资源 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>编写网站chemTd和部署遇到的问题以及解决方法</title>
       <link href="/2022/10/21/%E7%BC%96%E5%86%99%E7%BD%91%E7%AB%99chemTd%E5%92%8C%E9%83%A8%E7%BD%B2%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98%E4%BB%A5%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/"/>
       <url>/2022/10/21/%E7%BC%96%E5%86%99%E7%BD%91%E7%AB%99chemTd%E5%92%8C%E9%83%A8%E7%BD%B2%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98%E4%BB%A5%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</url>
@@ -33,11 +58,11 @@
     
     
     <entry>
-      <title>好用的js库</title>
-      <link href="/2022/10/04/%E5%A5%BD%E7%94%A8%E7%9A%84js%E5%BA%93/"/>
-      <url>/2022/10/04/%E5%A5%BD%E7%94%A8%E7%9A%84js%E5%BA%93/</url>
+      <title>前端库和工具</title>
+      <link href="/2022/10/04/%E5%89%8D%E7%AB%AF%E5%BA%93%E5%92%8C%E5%B7%A5%E5%85%B7/"/>
+      <url>/2022/10/04/%E5%89%8D%E7%AB%AF%E5%BA%93%E5%92%8C%E5%B7%A5%E5%85%B7/</url>
       
-        <content type="html"><![CDATA[<h3 id="可视化"><a href="#可视化" class="headerlink" title="可视化"></a>可视化</h3><p><a href="https://d3js.org/">D3.js - Data-Driven Documents (d3js.org)</a>——ETCM的药材分布用到了</p><p><img src="/../images/%E5%A5%BD%E7%94%A8%E7%9A%84js%E5%BA%93/image-20221004160653895.png" alt="image-20221004160653895"></p><p><a href="https://visjs.org/">vis.js (visjs.org)</a>——ETCM的network graph用了，很炫酷</p><p><img src="/../images/%E5%A5%BD%E7%94%A8%E7%9A%84js%E5%BA%93/image-20221004160753185.png" alt="image-20221004160753185"></p>]]></content>
+        <content type="html"><![CDATA[<h3 id="可视化"><a href="#可视化" class="headerlink" title="可视化"></a>可视化</h3><ul><li><h4 id="D3-js-Data-Driven-Documents-d3js-org-——ETCM的药材分布用到了"><a href="#D3-js-Data-Driven-Documents-d3js-org-——ETCM的药材分布用到了" class="headerlink" title="D3.js - Data-Driven Documents (d3js.org)——ETCM的药材分布用到了"></a><a href="https://d3js.org/">D3.js - Data-Driven Documents (d3js.org)</a>——ETCM的药材分布用到了</h4></li></ul><p><img src="/../images/%E5%A5%BD%E7%94%A8%E7%9A%84js%E5%BA%93/image-20221004160653895.png" alt="image-20221004160653895"></p><ul><li><h4 id="vis-js-visjs-org-——ETCM的network-graph用了，很炫酷"><a href="#vis-js-visjs-org-——ETCM的network-graph用了，很炫酷" class="headerlink" title="vis.js (visjs.org)——ETCM的network graph用了，很炫酷"></a><a href="https://visjs.org/">vis.js (visjs.org)</a>——ETCM的network graph用了，很炫酷</h4></li></ul><h4 id=""><a href="#" class="headerlink" title=""></a><img src="/../images/%E5%A5%BD%E7%94%A8%E7%9A%84js%E5%BA%93/image-20221004160753185.png" alt="image-20221004160753185"></h4><h3 id="图标库"><a href="#图标库" class="headerlink" title="图标库"></a>图标库</h3><ul><li><h4 id="https-boxicons-com-——Boxicons-免费的"><a href="#https-boxicons-com-——Boxicons-免费的" class="headerlink" title="https://boxicons.com/——Boxicons 免费的"></a><a href="https://boxicons.com/%E2%80%94%E2%80%94Boxicons">https://boxicons.com/——Boxicons</a> 免费的<img src="/../images/%E5%A5%BD%E7%94%A8%E7%9A%84js%E5%BA%93/image-20221029155614361.png" alt="image-20221029155614361"></h4><blockquote><p>下面的用到了这个库</p><p><img src="/../images/%E5%A5%BD%E7%94%A8%E7%9A%84js%E5%BA%93/image-20221029155656048.png" alt="image-20221029155656048"></p></blockquote></li></ul>]]></content>
       
       
       <categories>
