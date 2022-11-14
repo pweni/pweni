@@ -62,7 +62,7 @@
       <link href="/2022/10/04/%E5%89%8D%E7%AB%AF%E5%BA%93%E5%92%8C%E5%B7%A5%E5%85%B7/"/>
       <url>/2022/10/04/%E5%89%8D%E7%AB%AF%E5%BA%93%E5%92%8C%E5%B7%A5%E5%85%B7/</url>
       
-        <content type="html"><![CDATA[<h3 id="可视化"><a href="#可视化" class="headerlink" title="可视化"></a>可视化</h3><ul><li><h4 id="D3-js-Data-Driven-Documents-d3js-org-——ETCM的药材分布用到了"><a href="#D3-js-Data-Driven-Documents-d3js-org-——ETCM的药材分布用到了" class="headerlink" title="D3.js - Data-Driven Documents (d3js.org)——ETCM的药材分布用到了"></a><a href="https://d3js.org/">D3.js - Data-Driven Documents (d3js.org)</a>——ETCM的药材分布用到了</h4></li></ul><p><img src="/../images/%E5%A5%BD%E7%94%A8%E7%9A%84js%E5%BA%93/image-20221004160653895.png" alt="image-20221004160653895"></p><ul><li><h4 id="vis-js-visjs-org-——ETCM的network-graph用了，很炫酷"><a href="#vis-js-visjs-org-——ETCM的network-graph用了，很炫酷" class="headerlink" title="vis.js (visjs.org)——ETCM的network graph用了，很炫酷"></a><a href="https://visjs.org/">vis.js (visjs.org)</a>——ETCM的network graph用了，很炫酷</h4></li></ul><h4 id=""><a href="#" class="headerlink" title=""></a><img src="/../images/%E5%A5%BD%E7%94%A8%E7%9A%84js%E5%BA%93/image-20221004160753185.png" alt="image-20221004160753185"></h4><h3 id="图标库"><a href="#图标库" class="headerlink" title="图标库"></a>图标库</h3><ul><li><h4 id="https-boxicons-com-——Boxicons-免费的"><a href="#https-boxicons-com-——Boxicons-免费的" class="headerlink" title="https://boxicons.com/——Boxicons 免费的"></a><a href="https://boxicons.com/%E2%80%94%E2%80%94Boxicons">https://boxicons.com/——Boxicons</a> 免费的<img src="/../images/%E5%A5%BD%E7%94%A8%E7%9A%84js%E5%BA%93/image-20221029155614361.png" alt="image-20221029155614361"></h4><blockquote><p>下面的用到了这个库</p><p><img src="/../images/%E5%A5%BD%E7%94%A8%E7%9A%84js%E5%BA%93/image-20221029155656048.png" alt="image-20221029155656048"></p></blockquote></li></ul>]]></content>
+        <content type="html"><![CDATA[<h3 id="可视化"><a href="#可视化" class="headerlink" title="可视化"></a>可视化</h3><ul><li><h4 id="D3-js-Data-Driven-Documents-d3js-org-——ETCM的药材分布用到了"><a href="#D3-js-Data-Driven-Documents-d3js-org-——ETCM的药材分布用到了" class="headerlink" title="D3.js - Data-Driven Documents (d3js.org)——ETCM的药材分布用到了"></a><a href="https://d3js.org/">D3.js - Data-Driven Documents (d3js.org)</a>——ETCM的药材分布用到了</h4></li></ul><p><img src="/../images/%E5%A5%BD%E7%94%A8%E7%9A%84js%E5%BA%93/image-20221004160653895.png" alt="image-20221004160653895"></p><ul><li><h4 id="vis-js-visjs-org-——ETCM的network-graph用了，很炫酷"><a href="#vis-js-visjs-org-——ETCM的network-graph用了，很炫酷" class="headerlink" title="vis.js (visjs.org)——ETCM的network graph用了，很炫酷"></a><a href="https://visjs.org/">vis.js (visjs.org)</a>——ETCM的network graph用了，很炫酷</h4></li></ul><h4 id=""><a href="#" class="headerlink" title=""></a><img src="/../images/%E5%A5%BD%E7%94%A8%E7%9A%84js%E5%BA%93/image-20221004160753185.png" alt="image-20221004160753185"></h4><h4 id="ngl-nglviewer-org-——查看蛋白质的3d很强"><a href="#ngl-nglviewer-org-——查看蛋白质的3d很强" class="headerlink" title="ngl (nglviewer.org)——查看蛋白质的3d很强"></a><a href="http://nglviewer.org/ngl/api/">ngl (nglviewer.org)</a>——查看蛋白质的3d很强<img src="/../images/%E5%89%8D%E7%AB%AF%E5%BA%93%E5%92%8C%E5%B7%A5%E5%85%B7/image-20221114181120448.png" alt="image-20221114181120448"></h4><p><a href="https://biosig.lab.uq.edu.au/covid3d/protein/QHD43415_2/APO_I">COVID-3D | Non-structural protein 2 (nsp2) (uq.edu.au)</a>——这个网站用到了看蛋白质，很强</p><blockquote><p><img src="/../images/%E5%89%8D%E7%AB%AF%E5%BA%93%E5%92%8C%E5%B7%A5%E5%85%B7/image-20221114181146037.png" alt="image-20221114181146037"></p></blockquote><h4 id="Selectize-JS——复杂选框（上图的选框就是这个做到）"><a href="#Selectize-JS——复杂选框（上图的选框就是这个做到）" class="headerlink" title="Selectize.JS——复杂选框（上图的选框就是这个做到）"></a><a href="https://selectize.dev/">Selectize.JS</a>——复杂选框（上图的选框就是这个做到）</h4><p><img src="/../images/%E5%89%8D%E7%AB%AF%E5%BA%93%E5%92%8C%E5%B7%A5%E5%85%B7/image-20221114181441646.png" alt="image-20221114181441646"></p><h3 id="图标库"><a href="#图标库" class="headerlink" title="图标库"></a>图标库</h3><ul><li><h4 id="https-boxicons-com-——Boxicons-免费的"><a href="#https-boxicons-com-——Boxicons-免费的" class="headerlink" title="https://boxicons.com/——Boxicons 免费的"></a><a href="https://boxicons.com/%E2%80%94%E2%80%94Boxicons">https://boxicons.com/——Boxicons</a> 免费的<img src="/../images/%E5%A5%BD%E7%94%A8%E7%9A%84js%E5%BA%93/image-20221029155614361.png" alt="image-20221029155614361"></h4><blockquote><p>下面的用到了这个库</p><p><img src="/../images/%E5%A5%BD%E7%94%A8%E7%9A%84js%E5%BA%93/image-20221029155656048.png" alt="image-20221029155656048"></p></blockquote></li></ul>]]></content>
       
       
       <categories>
@@ -99,9 +99,9 @@
       
         <tags>
             
-            <tag> 解决方法 </tag>
-            
             <tag> linux </tag>
+            
+            <tag> 解决方法 </tag>
             
         </tags>
       
@@ -126,9 +126,9 @@
       
         <tags>
             
-            <tag> 解决方法 </tag>
-            
             <tag> linux </tag>
+            
+            <tag> 解决方法 </tag>
             
         </tags>
       
@@ -153,11 +153,11 @@
       
         <tags>
             
-            <tag> 解决方法 </tag>
-            
             <tag> linux </tag>
             
             <tag> 美化 </tag>
+            
+            <tag> 解决方法 </tag>
             
         </tags>
       
